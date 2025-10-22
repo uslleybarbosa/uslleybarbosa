@@ -2,7 +2,7 @@
 
 **`Entusiasta da tecnologia`**
 
-Me chamo Weslley Barbosa, tenho 24 anos e sou natural do São Paulo. Concluí o ensino médio e estou a iniciar a minha graduação no curso de ciência da computação. Sou um grande entusiasta da  tecnologia e compartilho meu conhecimento através do meu Substack  [uslleybarbosa](https://substack.com/@ueslleybarbosa).
+Me chamo Weslley Barbosa, tenho 24 anos. Estou a iniciar a minha graduação no curso de ciência da computação. Sou um grande entusiasta da  tecnologia e compartilho meu conhecimento através do meu Substack  [uslleybarbosa](https://substack.com/@ueslleybarbosa).
 
 ---
 
