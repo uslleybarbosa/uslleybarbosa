@@ -6,7 +6,7 @@
   <h2>👤 Sobre Mim</h2>
   
   <p>
-    Olá! 👋 Sou <b>Wesley</b>, Analista de Suporte Técnico na <b>Light System</b> e estudante de <b>Engenharia de Software</b>.
+    Olá! 👋 Sou <b>Weslley</b>, Analista de Suporte Técnico na <b>Light System</b> e estudante de <b>Engenharia de Software</b>.
   </p>
   
   <p>
